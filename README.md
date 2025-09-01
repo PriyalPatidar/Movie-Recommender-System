@@ -23,3 +23,5 @@ A movie recommendation system built in Python that provides personalized movie s
 ```bash
 git clone https://github.com/PriyalPatidar/Movie-Recommender-System.git
 cd Movie-Recommender-System
+pip install -r requirements.txt
+streamlit run app.py
